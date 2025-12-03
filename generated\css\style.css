@@ -1,0 +1,47 @@
+
+/* Global Layout */
+.section {
+    padding: 4rem 1.5rem;
+    max-width: 900px;
+    margin: auto;
+}
+.content {
+    text-align: center;
+}
+.title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+.subtitle {
+    font-size: 1.25rem;
+    color: #555;
+    margin-bottom: 1rem;
+}
+.description {
+    color: #666;
+    margin-bottom: 1.5rem;
+}
+.image {
+    max-width: 100%;
+    border-radius: 12px;
+    margin-bottom: 1.5rem;
+}
+.btn-primary {
+    background-color: #1d4ed8;
+    color: white;
+    padding: 10px 16px;
+    border-radius: 8px;
+    display: inline-block;
+}
+.btn-primary:hover {
+    background-color: #1e40af;
+}
+.divider {
+    margin: 2rem 0;
+}
+.footer {
+    text-align: center;
+    padding: 2rem;
+    color: #666;
+}
